@@ -9,7 +9,7 @@
 
 <h2>Create new branch dev. Create and push any test file.</h2>
 <p>Create and push any test file in the dev branch.</p>
-<img src="[images/task2_example.png](https://github.com/Saadnaanaiy/my-project/blob/main/Task1/images/Screenshot%202024-11-22%20152228.png)" alt="Task 2 example" width="400">
+<img src="https://github.com/Saadnaanaiy/my-project/blob/main/Task1/images/Screenshot%202024-11-22%20152228.png" alt="Task 2 example" width="400">
 
 <h2>Task 3: Create a new branch %USERNAME-new_feature</h2>
 <p>Add README.md file to your %USERNAME-new_feature branch.</p>

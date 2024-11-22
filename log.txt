@@ -1,0 +1,5 @@
+commit fa238aff52a4eed9cf7fdb6bb6f6b5778e75e5da
+Author: Saadnaanaiy <Saadnaanaiy@gmail.com>
+Date:   Fri Nov 22 12:13:49 2024 +0100
+
+    Add Task1/README.md

@@ -13,11 +13,12 @@
 <img src="https://github.com/Saadnaanaiy/my-project/blob/main/Task1/images/Screenshot%202024-11-22%20152238.png" alt="Task 2 example" width="400">
 
 <h2>Create new branch %USERNAME-new_feature.</h2>
-<img src="images/task3_example.png" alt="Task 3 example" width="400">
+<img src="https://github.com/Saadnaanaiy/my-project/blob/main/Task1/images/Screenshot%202024-11-22%20152254.png" alt="Task 4 example" width="400">
+<img src="https://github.com/Saadnaanaiy/my-project/blob/main/Task1/images/Screenshot%202024-11-22%20152316.png" alt="Task 4 example" width="400">
 
 <h2>Task 4: Check the repository status</h2>
 
-<img src="https://github.com/Saadnaanaiy/my-project/blob/main/Task1/images/Screenshot%202024-11-22%20152254.png" alt="Task 4 example" width="400">
+
 
 <h2>Task 5: Add .gitignore file</h2>
 

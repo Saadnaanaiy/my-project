@@ -43,7 +43,9 @@
 README.md and commit them. Revert last commit in
 %USERNAME-new_feature branch.</h2>
 
-<img src="images/task9_example.png" alt="Task 9 example" width="400">
+<img src="https://github.com/Saadnaanaiy/my-project/blob/main/Task1/images/Screenshot%202024-11-22%20152430.png" alt="Task 9 example" width="400">
+
+<img src="https://github.com/Saadnaanaiy/my-project/blob/main/Task1/images/Screenshot%202024-11-22%20152436.png" alt="Task 9 example" width="400">
 
 <h2>Task 10: Save git log</h2>
 
@@ -59,14 +61,5 @@ README.md and commit them. Revert last commit in
 
 <h2>Task 13: Create an image folder in the dev branch</h2>
 
-<p>2. Create a folder named <code>images</code>:<br>
-<code>mkdir images</code></p>
-<p>3. Add an example image or placeholder file (e.g., <code>.gitkeep</code>):<br>
-<code>touch images/.gitkeep</code></p>
-<p>4. Stage and commit the changes:<br>
-<code>git add images</code><br>
-<code>git commit -m "Add images folder to dev branch"</code></p>
-<p>5. Push the changes to the remote repository:<br>
-<code>git push origin dev</code></p>
-<img src="images/task13_example.png" alt="Task 13 example" width="400">
+
 

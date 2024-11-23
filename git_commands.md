@@ -47,15 +47,15 @@ README.md and commit them. Revert last commit in
 
 <img src="https://github.com/Saadnaanaiy/my-project/blob/main/Task1/images/Screenshot%202024-11-22%20152436.png" alt="Task 9 example" width="400">
 
-<h2>Task 10: Save git log</h2>
+<h2>git log</h2>
 
-<img src="file:///C:/Users/Saadn/OneDrive/Images/Captures%20d%E2%80%99%C3%A9cran/Screenshot%202024-11-23%20232641.png" alt="Task 10 example" width="400">
-<img src="file:///C:/Users/Saadn/OneDrive/Images/Captures%20d%E2%80%99%C3%A9cran/Screenshot%202024-11-23%20232651.png" alt="Task 10 example" width="400">
-<img src="file:///C:/Users/Saadn/OneDrive/Images/Captures%20d%E2%80%99%C3%A9cran/Screenshot%202024-11-23%20232659.png" alt="Task 10 example" width="400">
+<img src="https://github.com/Saadnaanaiy/my-project/blob/main/Task1/images/gitlog1.png" alt="Task 10 example" width="400">
+<img src="https://github.com/Saadnaanaiy/my-project/blob/main/Task1/images/gitlog2.pngg" alt="Task 10 example" width="400">
+<img src="https://github.com/Saadnaanaiy/my-project/blob/main/Task1/images/gitlog3.png" alt="Task 10 example" width="400">
 
-<h2>Task 11: Delete branch</h2>
+<h2> Delete branch</h2>
 
-<img src="images/task11_example.png" alt="Task 11 example" width="400">
+<img src="https://github.com/Saadnaanaiy/my-project/blob/main/Task1/images/delete.png" alt="Task 11 example" width="400">
 
 
 

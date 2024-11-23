@@ -49,17 +49,15 @@ README.md and commit them. Revert last commit in
 
 <h2>Task 10: Save git log</h2>
 
-<img src="images/task10_example.png" alt="Task 10 example" width="400">
+<img src="file:///C:/Users/Saadn/OneDrive/Images/Captures%20d%E2%80%99%C3%A9cran/Screenshot%202024-11-23%20232641.png" alt="Task 10 example" width="400">
+<img src="file:///C:/Users/Saadn/OneDrive/Images/Captures%20d%E2%80%99%C3%A9cran/Screenshot%202024-11-23%20232651.png" alt="Task 10 example" width="400">
+<img src="file:///C:/Users/Saadn/OneDrive/Images/Captures%20d%E2%80%99%C3%A9cran/Screenshot%202024-11-23%20232659.png" alt="Task 10 example" width="400">
 
 <h2>Task 11: Delete branch</h2>
 
 <img src="images/task11_example.png" alt="Task 11 example" width="400">
 
-<h2>Task 12: Add used commands</h2>
 
-<img src="images/task12_example.png" alt="Task 12 example" width="400">
-
-<h2>Task 13: Create an image folder in the dev branch</h2>
 
 
 

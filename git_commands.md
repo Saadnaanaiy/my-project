@@ -50,7 +50,7 @@ README.md and commit them. Revert last commit in
 <h2>git log</h2>
 
 <img src="https://github.com/Saadnaanaiy/my-project/blob/main/Task1/images/gitlog1.png" alt="Task 10 example" width="400">
-<img src="https://github.com/Saadnaanaiy/my-project/blob/main/Task1/images/gitlog2.pngg" alt="Task 10 example" width="400">
+<img src="https://github.com/Saadnaanaiy/my-project/blob/main/Task1/images/gitlog2.png" alt="Task 10 example" width="400">
 <img src="https://github.com/Saadnaanaiy/my-project/blob/main/Task1/images/gitlog3.png" alt="Task 10 example" width="400">
 
 <h2> Delete branch</h2>
